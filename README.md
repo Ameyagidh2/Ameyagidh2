@@ -63,36 +63,6 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> 
 </p>
 
-<h2> 💼 Professional Experience 💼 </h2>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software Engineer Co-op | Delsys</h3>
-    <p>Natick, MA | Jan 2023 – Aug 2023</p>
-    <ul>
-        <li>Expanded Discover software using C# and MVVM architecture.</li>
-        <li>Developed modular Python UI/UX app for enhanced scalability.</li>
-        <li>Programmed C++ software with Docker for seamless sensor integration.</li>
-    </ul>
-</div>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Machine Learning Intern | Adagrad AI</h3>
-    <p>Maharashtra, India | July 2020 - Sept 2020</p>
-    <ul>
-        <li>Deployed CNN model on Microsoft Azure for melanoma prediction.</li>
-        <li>Enhanced object detection model using OpenCV and YOLO.</li>
-    </ul>
-</div>
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Java Software Engineering Intern | ABP Systems and Solutions</h3>
-    <p>Maharashtra, India | Nov 2019 – May 2020</p>
-    <ul>
-        <li>Optimized MySQL database of Java Spring MVC Payroll Management System, enhancing query speed by 7%.</li>
-        <li>Collaborated with a team of 20 to perform comprehensive black-box testing, ensuring code robustness and integrity.</li>
-        <li>Developed a Java Spring Boot e-commerce website following a microservices architecture.</li>
-        <li>Integrated Apache Kafka pipeline for data streaming, resulting in a 15% reduction in API response time.</li>
-    </ul>
-</div>
 <!-- Add other experiences here -->
 
 <h2>🔍 Notable Projects 🚀</h2>
